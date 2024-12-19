@@ -1,0 +1,2 @@
+# AdvancedBitcoinAnalysis
+ #%% md # Bitcoin and Market Indices Analysis  **Author:** EL YOUSFI CHARAF  ## Introduction  This notebook: - Loads Bitcoin (BTC-USD) and major US stock indices (Dow, Nasdaq, S&P 500) from Yahoo Finance. - Visualizes price data using both line and candlestick charts for a more traditional "stock chart" look. - Computes returns, volatility, and compares Bitcoin performance with traditional indices. - Contextualizes important historical milestones (2019 low, 2021 peak, 2022 crash, 2024 rally scenario).
